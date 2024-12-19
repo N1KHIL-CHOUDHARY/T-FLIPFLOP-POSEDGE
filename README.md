@@ -1,5 +1,5 @@
 # Date:23/11/2024
-# T-FLIPFLOP-POSEDGE
+# EXP 9: T-FLIPFLOP-POSEDGE
 
 **AIM:**
 
@@ -55,8 +55,8 @@ begin
 endmodule
 ```
 ```
-Developed by: S KANUSHA SREE
-RegisterNumber:24001268
+Developed by: NIKHIL
+RegisterNumber:24900366
 ```
 */
 
